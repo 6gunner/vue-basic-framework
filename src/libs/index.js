@@ -1,3 +1,3 @@
-import lazyLoad from 'lazyload';
+import lazyLoad from './lazyload';
 
 export { lazyLoad }
