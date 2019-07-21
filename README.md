@@ -1,29 +1,19 @@
-# stock-vue
+# vue-basic-framework
 
-## Project setup
-```
-yarn install
-```
+> VUE项目中一般会用到的一些框架组合，做一个整合。以后新建项目可以直接哪来使用
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
 
-### Compiles and minifies for production
-```
-yarn run build
-```
 
-### Run your tests
-```
-yarn run test
-```
+## 第一版本
 
-### Lints and fixes files
-```
-yarn run lint
-```
+> 时间：2019.7.21日
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- 加入了axios以及一些常用的拦截器。拦截器业务根据实际项目业务来写；
+
+- 加入router和store。一般项目都会用到
+- 加了组件的懒加载
+
+其他组件根据后面需要再考虑加入。
+
+
+
